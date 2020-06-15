@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Smart Locking Control System Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_file">com.example.preference_file</string>
+    <string name="pref_login_status">com.example.preference_login_status</string>
+    <string name="pref_user_name">com.example.preference_user_name</string>
+    <string name="pref_real_username">com.example.preference_real_username</string>
+    <string name="pref_pass">com.example.preference_pass</string>
+    <string name="pref_address">com.example.preference_address</string>
+    <string name="yeni_kullanici_ekle">Add new user. (Create new key.)</string>
+    <string name="login_form">Welcome to Smart Locking Control System Mobile Application.\n\n Please login.</string>
+    <string name="password">Password</string>
+    <string name="user_name">Username</string>
+    <string name="login">Login</string>
+    <string name="login_screen_image">Login Screen Image</string>
+</resources>
